@@ -1,3 +1,6 @@
+
+alert ("welcome to my website");
+
 document.addEventListener("DOMContentLoaded", function() {
   var typed = new Typed('#domains', {
     strings: [' ', 'Software Engineer.', 'Python Developer.', 'Student..'],
