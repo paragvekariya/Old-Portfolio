@@ -311,10 +311,12 @@ margin-bottom: 30px;
 .img-small {
   width: 350px;
 }
+
 @media (max-width: 750px) {
     #edu-box-container {
         display: block;
     }
+}
 
     .edu-box {
         margin: 4px 0px;
